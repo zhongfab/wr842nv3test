@@ -16,4 +16,7 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-git clone https://github.com/slipdaly/luci-app-adblock-plus package/adblockplus
+#git clone https://github.com/slipdaly/luci-app-adblock-plus package/adblockplus
+git clone https://github.com/slipdaly/luci-app-adblock-plus package/lean
+
+git clone https://github.com/kenzok8/openwrt-packages/tree/master/luci-theme-tomato package/lean
