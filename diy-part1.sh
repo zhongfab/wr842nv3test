@@ -19,4 +19,4 @@
 #git clone https://github.com/slipdaly/luci-app-adblock-plus package/adblockplus
 git clone https://github.com/slipdaly/luci-app-adblock-plus package/adblock
 
-git clone https://github.com/kenzok8/openwrt-packages/tree/master/luci-theme-tomato package/tomato
+git clone https://github.com/zhongfab/mycum-package package/tomato-pac
