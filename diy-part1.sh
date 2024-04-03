@@ -18,5 +18,5 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #git clone https://github.com/slipdaly/luci-app-adblock-plus package/adblockplus
 #git clone https://github.com/slipdaly/luci-app-adblock-plus package/adblock
-git clone https://github.com/zhongfab/mycum-package package/lean
+git clone https://github.com/zhongfab/mycum-package package/lean/pakk
 #git clone https://github.com/zhongfab/mycum-package package/tomato-pac
